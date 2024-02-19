@@ -598,7 +598,7 @@ div.iconsInfo {
 	position: relative;
 }
 .navbar-fixed-top.menu-block .container {
-	border: 2px solid #1e2957ff;
+	/*border: 2px solid #1e2957ff;*/
 	border-top: none;
 	max-width: 1170px;
 }
