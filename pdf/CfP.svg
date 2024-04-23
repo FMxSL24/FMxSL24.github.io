@@ -18,6 +18,18 @@
   <defs
      id="defs2">
     <rect
+       x="81.06383"
+       y="330.4477"
+       width="191.40071"
+       height="15.199468"
+       id="rect1166" />
+    <rect
+       x="40.813387"
+       y="335.23271"
+       width="31.806294"
+       height="31.243351"
+       id="rect1100" />
+    <rect
        x="41.657801"
        y="307.64849"
        width="155.37234"
@@ -80,7 +92,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94"
-     inkscape:cx="1145.6015"
+     inkscape:cx="622.97753"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -88,11 +100,11 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2036"
-     inkscape:window-x="2676"
-     inkscape:window-y="-12"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1916"
+     inkscape:window-height="2022"
+     inkscape:window-x="2678"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        position="0,346.53902"
        orientation="1,0"
@@ -109,6 +121,10 @@
        position="-60.234929,297"
        orientation="0,-1"
        id="guide1031" />
+    <sodipodi:guide
+       position="33.776595,188.07048"
+       orientation="0,-1"
+       id="guide1104" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -118,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -201,124 +217,128 @@
        id="text975" />
     <text
        xml:space="preserve"
-       style="font-size:3.88056px;line-height:1.25;font-family:Mendulang;-inkscape-font-specification:Mendulang;text-align:start;text-anchor:start;white-space:pre;inline-size:185.317;stroke-width:0.264583"
+       style="font-size:3.52778px;line-height:1.25;font-family:Mendulang;-inkscape-font-specification:Mendulang;text-align:start;text-anchor:start;white-space:pre;inline-size:85.3486;stroke-width:0.264583"
        x="-23.424807"
        y="233.05852"
        id="text979"
        transform="translate(35.183954,-121.58446)"><tspan
          x="-23.424807"
          y="233.05852"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Objectives                                                                                                                                                  
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Objectives                                                                                                                                                  
 </tspan></tspan><tspan
          x="-23.424807"
-         y="238.93157"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">1. Bridge Theory and Practice: Facilitate discussions and presentations that bridge theoretical </tspan></tspan><tspan
+         y="238.10879"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">1. Bridge Theory and Practice: Facilitate discussions </tspan></tspan><tspan
          x="-23.424807"
-         y="244.80462"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">concepts in Spatial Logics with applications in Formal Methods. Encourage participants to share </tspan></tspan><tspan
+         y="243.15905"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">and presentations that bridge theoretical concepts in </tspan></tspan><tspan
          x="-23.424807"
-         y="250.67766"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">insights from their research and experiences.    
+         y="248.20931"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">Spatial Logics with applications in Formal Methods. </tspan></tspan><tspan
+         x="-23.424807"
+         y="253.25957"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">Encourage participants to share insights from their </tspan></tspan><tspan
+         x="-23.424807"
+         y="258.30984"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">research and experiences.    
 </tspan></tspan><tspan
          x="-23.424807"
-         y="256.55071"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">2. Emerging Trends: Highlight and discuss emerging trends and advancements at the intersection </tspan></tspan><tspan
+         y="263.3601"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">2. Emerging Trends: Highlight and discuss emerging </tspan></tspan><tspan
          x="-23.424807"
-         y="262.42376"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">between formal methods and spatial logics. This includes recent research findings, innovative </tspan></tspan><tspan
+         y="268.41036"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">trends and advancements at the intersection between </tspan></tspan><tspan
          x="-23.424807"
-         y="268.2968"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">applications, and potential future directions in the field, novel application domains, etc.                             
+         y="273.46062"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">formal methods and spatial logics. This includes </tspan></tspan><tspan
+         x="-23.424807"
+         y="278.51088"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">recent research findings, innovative applications, and </tspan></tspan><tspan
+         x="-23.424807"
+         y="283.56115"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">potential future directions in the field, novel application </tspan></tspan><tspan
+         x="-23.424807"
+         y="288.61141"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">domains, etc.                             
 </tspan></tspan><tspan
          x="-23.424807"
-         y="274.16985"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">3. Interdisciplinary Collaboration: Encourage interdisciplinary collaboration by bringing together </tspan></tspan><tspan
+         y="293.66167"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">3. Interdisciplinary Collaboration: Encourage </tspan></tspan><tspan
          x="-23.424807"
-         y="280.0429"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">experts from computer science, spatial and temporal logics, artificial intelligence, spatial </tspan></tspan><tspan
+         y="298.71193"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">interdisciplinary collaboration by bringing together </tspan></tspan><tspan
          x="-23.424807"
-         y="285.91594"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">knowledge representation and reasoning, and related fields. Create a platform for fruitful </tspan></tspan><tspan
+         y="303.7622"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">experts from computer science, spatial and temporal </tspan></tspan><tspan
          x="-23.424807"
-         y="291.78899"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial">discussions that transcend traditional disciplinary boundaries. </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">
+         y="308.81246"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">logics, artificial intelligence, spatial knowledge </tspan></tspan><tspan
+         x="-23.424807"
+         y="313.86272"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">representation and reasoning, and related fields. </tspan></tspan><tspan
+         x="-23.424807"
+         y="318.91298"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">Create a platform for fruitful discussions that </tspan></tspan><tspan
+         x="-23.424807"
+         y="323.96325"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial">transcend traditional disciplinary boundaries. </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">
 </tspan></tspan><tspan
          x="-23.424807"
-         y="297.66204"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">
+         y="329.01351"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">
 </tspan></tspan><tspan
          x="-23.424807"
-         y="303.53508"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Topics of Interest </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+         y="334.06377"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Topics of Interest </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
 </tspan></tspan><tspan
          x="-23.424807"
-         y="309.40813"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">The workshop invites submissions on a wide range of topics, including but not limited to: Spatial </tspan></tspan><tspan
+         y="339.11403"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">The workshop invites submissions on a wide range of </tspan></tspan><tspan
          x="-23.424807"
-         y="315.28118"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Aspects in Formal Methods (such as spatial model checking, minimization of spatial models); </tspan></tspan><tspan
+         y="344.1643"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">topics, including but not limited to: Spatial Aspects in </tspan></tspan><tspan
          x="-23.424807"
-         y="321.15422"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Spatial and Spatio-Temporal Logics; Formal methods and spatial logics in Imaging and medical </tspan></tspan><tspan
+         y="349.21456"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Formal Methods (such as spatial model checking, </tspan></tspan><tspan
          x="-23.424807"
-         y="327.02727"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">imaging; Logical and topological methods in 3D meshing; Spatial applications of formal methods </tspan></tspan><tspan
+         y="354.26482"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">minimization of spatial models); Spatial and Spatio-</tspan></tspan><tspan
          x="-23.424807"
-         y="332.90032"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">(e.g. applications of formal methods to novel domains); Computational methods that depend upon </tspan></tspan><tspan
+         y="359.31508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Temporal Logics; Formal methods and spatial logics in </tspan></tspan><tspan
          x="-23.424807"
-         y="338.77337"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">spatial constraints (e.g. GPU computing, Grid computing, Autonomic computing, Collective </tspan></tspan><tspan
+         y="364.36535"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Imaging and medical imaging; Logical and topological </tspan></tspan><tspan
          x="-23.424807"
-         y="344.64641"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Adaptive Systems, etc.); Research bridging Spatial Logics and Formal methods with Artificial </tspan></tspan><tspan
+         y="369.41561"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">methods in 3D meshing; Spatial applications of formal </tspan></tspan><tspan
          x="-23.424807"
-         y="350.51946"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Intelligence (e.g. Hybrid Artificial Intelligence for vision and imaging, automated inference of spatial </tspan></tspan><tspan
+         y="374.46587"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">methods (e.g. applications of formal methods to novel </tspan></tspan><tspan
          x="-23.424807"
-         y="356.39251"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">formulas, etc.) 
-</tspan></tspan><tspan
+         y="379.51613"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">domains); Computational methods that depend upon </tspan></tspan><tspan
          x="-23.424807"
-         y="362.26555"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
-</tspan></tspan><tspan
+         y="384.5664"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">spatial constraints (e.g. GPU computing, Grid </tspan></tspan><tspan
          x="-23.424807"
-         y="368.1386"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Submission information </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
-</tspan></tspan><tspan
+         y="389.61666"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">computing, Autonomic computing, Collective Adaptive </tspan></tspan><tspan
          x="-23.424807"
-         y="374.01165"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">The workshop accepts papers of original work (LNCS format) of length up to 6 pages. The </tspan></tspan><tspan
+         y="394.66692"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Systems, etc.); Research bridging Spatial Logics and </tspan></tspan><tspan
          x="-23.424807"
-         y="379.88469"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">submissions will be compiled into a technical report. If the quality and quantity of the submissions </tspan></tspan><tspan
+         y="399.71718"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Formal methods with Artificial Intelligence (e.g. Hybrid </tspan></tspan><tspan
          x="-23.424807"
-         y="385.75774"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">warrants it, a special issue in a journal of the area will be proposed. 
-</tspan></tspan><tspan
+         y="404.76745"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Artificial Intelligence for vision and imaging, automated </tspan></tspan><tspan
          x="-23.424807"
-         y="391.63079"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
-</tspan></tspan><tspan
-         x="-23.424807"
-         y="397.50383"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Contacts: </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
-</tspan></tspan><tspan
-         x="-23.424807"
-         y="403.37688"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Vincenzo Ciancia (Italian National Research Council (CNR), Italy) </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1753bd;fill-opacity:1">vincenzo.ciancia@isti.cnr.it </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
-</tspan></tspan><tspan
-         x="-23.424807"
-         y="409.24993"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">David Gabelaia (TSU A. Razmadze Mathematical Institute, Tbilisi, Georgia) </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1753bd;fill-opacity:1">gabelaia@gmail.com</tspan></tspan></text>
+         y="409.81771"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">inference of spatial formulas, etc.) 
+</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text981"
@@ -355,5 +375,192 @@
        id="image1057"
        x="-24.305082"
        y="7.792882e-07" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Mendulang;-inkscape-font-specification:Mendulang;text-align:start;text-anchor:start;white-space:pre;inline-size:85.3486;stroke-width:0.264583"
+       x="-23.424807"
+       y="233.05852"
+       id="text1096"
+       transform="translate(137.84256,-132.16786)"><tspan
+         x="-23.424807"
+         y="233.05852"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="238.10879"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="243.15905"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Submission information </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="248.20931"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">The workshop accepts papers of original work (LNCS </tspan></tspan><tspan
+         x="-23.424807"
+         y="253.25957"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">format) of length up to 6 pages. The submissions will </tspan></tspan><tspan
+         x="-23.424807"
+         y="258.30984"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">be compiled into a technical report. If the quality and </tspan></tspan><tspan
+         x="-23.424807"
+         y="263.3601"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">quantity of the submissions warrants it, a special issue </tspan></tspan><tspan
+         x="-23.424807"
+         y="268.41036"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">in a journal of the area will be proposed.
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="273.46062"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="278.51088"><tspan
+           style="font-weight:bold">Program Committee</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="283.56115"><tspan
+           style="font-weight:bold">Laura Bussi</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, ISTI-CNR, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="288.61141"><tspan
+           style="font-weight:bold">Vincenzo Ciancia (co-chair)</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, ISTI-CNR, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="293.66167"><tspan
+           style="font-weight:bold">David Fernàndez</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Barcelona, Spain
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="298.71193"><tspan
+           style="font-weight:bold">David Gabelaia (co-chair)</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, TSU Razmadze </tspan></tspan><tspan
+         x="-23.424807"
+         y="303.7622"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Mathematical Institute, Georgia
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="308.81246"><tspan
+           style="font-weight:bold">Fabio Gadducci</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Pisa, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="313.86272"><tspan
+           style="font-weight:bold">Silvio Ghilardi</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Milan, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="318.91298"><tspan
+           style="font-weight:bold">Diego Latella</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, ISTI-CNR, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="323.96325"><tspan
+           style="font-weight:bold">Vincenzo Marra</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Milan, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="329.01351"><tspan
+           style="font-weight:bold">Mieke Massink</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, ISTI-CNR, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="334.06377"><tspan
+           style="font-weight:bold">Emanuela Merelli</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Camerino, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="339.11403"><tspan
+           style="font-weight:bold">Marino Miculan</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Udine, Italy
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="344.1643"><tspan
+           style="font-weight:bold">Sonja Smets</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, University of Amsterdam, The </tspan></tspan><tspan
+         x="-23.424807"
+         y="349.21456"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Netherlands
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="354.26482"><tspan
+           style="font-weight:bold">Anton Wijs</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">, Eindhoven University of Technology, The </tspan></tspan><tspan
+         x="-23.424807"
+         y="359.31508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Netherlands
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="364.36535"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="369.41561"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="374.46587"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Contacts: </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="379.51613"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Vincenzo Ciancia (Italian National Research Council </tspan></tspan><tspan
+         x="-23.424807"
+         y="384.5664"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">(CNR), Italy) </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1753bd;fill-opacity:1">vincenzo.ciancia@isti.cnr.it </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">
+</tspan></tspan><tspan
+         x="-23.424807"
+         y="389.61666"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">David Gabelaia (TSU A. Razmadze Mathematical </tspan></tspan><tspan
+         x="-23.424807"
+         y="394.66692"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Institute, Tbilisi, Georgia) </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1753bd;fill-opacity:1">gabelaia@gmail.com</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1098"
+       style="line-height:1.25;font-family:Mendulang;font-size:11.28888889px;-inkscape-font-specification:Mendulang;text-align:center;white-space:pre;shape-inside:url(#rect1100)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:Mendulang;-inkscape-font-specification:Mendulang;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="177.6086"
+       y="138.76552"
+       id="text1121"><tspan
+         sodipodi:role="line"
+         id="tspan1119"
+         x="177.6086"
+         y="138.76552"
+         style="stroke-width:0.264583"></tspan><tspan
+         sodipodi:role="line"
+         x="177.6086"
+         y="152.87665"
+         style="stroke-width:0.264583"
+         id="tspan1123" /><tspan
+         sodipodi:role="line"
+         x="177.6086"
+         y="166.98776"
+         style="stroke-width:0.264583"
+         id="tspan1125" /><tspan
+         sodipodi:role="line"
+         x="177.6086"
+         y="181.09889"
+         style="stroke-width:0.264583"
+         id="tspan1127" /><tspan
+         sodipodi:role="line"
+         x="177.6086"
+         y="195.21002"
+         style="stroke-width:0.264583"
+         id="tspan1129" /></text>
+    <text
+       xml:space="preserve"
+       id="text1164"
+       style="line-height:1.25;font-family:Mendulang;font-size:11.28888889px;-inkscape-font-specification:Mendulang;text-align:center;white-space:pre;shape-inside:url(#rect1166)" />
   </g>
 </svg>
